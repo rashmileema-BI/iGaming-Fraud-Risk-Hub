@@ -1,0 +1,22 @@
+let
+    Source   = Folder.Files(pDropFolder),
+    CsvOnly  = Table.SelectRows(Source, each Text.EndsWith([Name], ".csv")),
+    Parsed   = Table.AddColumn(CsvOnly, "Data", each
+                   Table.PromoteHeaders(
+                       Csv.Document([Content], [Delimiter = ",", Encoding = 65001, QuoteStyle = QuoteStyle.None]),
+                       [PromoteAllScalars = true])),
+    Kept     = Table.SelectColumns(Parsed, {"Name", "Data"}),
+    Expanded = Table.ExpandTableColumn(Kept, "Data",
+                   {"txn_id", "player_id", "txn_time", "txn_type", "method", "amount", "status", "card_hash"}),
+    Cleaned  = Table.TransformColumns(Expanded, {
+                   {"txn_type", each Text.Lower(Text.Trim(_)), type text},
+                   {"status",   each Text.Lower(Text.Trim(_)), type text},
+                   {"method",   each Text.Lower(Text.Trim(_)), type text}}),
+    NoBlank  = Table.ReplaceValue(Cleaned, "", null, Replacer.ReplaceValue, {"card_hash"}),
+    Typed    = Table.TransformColumnTypes(NoBlank, {
+                   {"txn_id", type text}, {"player_id", type text}, {"txn_time", type datetime},
+                   {"amount", type number}, {"card_hash", type text}}, "en-US"),
+    Dedup    = Table.Distinct(Typed, {"txn_id"}),
+    Renamed  = Table.RenameColumns(Dedup, {{"Name", "source_file"}})
+in
+    Renamed

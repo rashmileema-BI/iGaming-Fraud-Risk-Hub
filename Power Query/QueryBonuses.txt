@@ -1,0 +1,6 @@
+let
+    Source = Sql.Database("localhost", "FraudHub"),
+    B = Source{[Schema = "core", Item = "bonuses"]}[Data],
+    WithRatio = Table.AddColumn(B, "wager_ratio", each [wagered_amount] / [bonus_amount], type number)
+in
+    WithRatio

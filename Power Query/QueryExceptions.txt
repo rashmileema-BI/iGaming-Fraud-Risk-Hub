@@ -1,0 +1,6 @@
+let
+    Source = Sql.Database("localhost", "FraudHub"),
+    Exc = Source{[Schema = "core", Item = "vw_daily_exceptions"]}[Data],
+    Typed = Table.TransformColumnTypes(Exc, {{"risk_score", Int64.Type}})
+in
+    Typed

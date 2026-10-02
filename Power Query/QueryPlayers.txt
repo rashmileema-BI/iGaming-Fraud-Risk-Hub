@@ -1,0 +1,5 @@
+let
+    Source = Sql.Database("localhost", "FraudHub"),
+    Players = Source{[Schema = "core", Item = "players"]}[Data]
+in
+    Players
