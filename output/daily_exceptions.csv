@@ -1,0 +1,236 @@
+player_id,risk_score,rules,details,risk_band,full_name,country
+P00029,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00017 shared by 5 players | ip_address=230.103.221.186 shared by 5 players,High,Yusuf Wong,NZ
+P00048,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00008 shared by 3 players | ip_address=58.41.78.178 shared by 3 players,High,Zara Ahmed,GB
+P00049,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00005 shared by 5 players | ip_address=210.117.60.38 shared by 5 players,High,Ethan Mendis,NZ
+P00108,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00010 shared by 4 players | ip_address=55.176.248.140 shared by 4 players,High,Layla Novak,FI
+P00071,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00012 shared by 4 players | ip_address=233.234.209.148 shared by 4 players,High,Tara Mendis,DE
+P00081,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00009 shared by 5 players | ip_address=129.47.189.128 shared by 5 players,High,Hugo Fernando,SE
+P00112,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00025 shared by 5 players | ip_address=139.131.185.160 shared by 5 players,High,Noah Novak,CA
+P00249,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00025 shared by 5 players | ip_address=139.131.185.160 shared by 5 players,High,Amara Wong,FI
+P00167,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00002 shared by 4 players | ip_address=61.204.193.81 shared by 4 players,High,Omar Ahmed,IN
+P00176,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00009 shared by 5 players | ip_address=129.47.189.128 shared by 5 players,High,Dev Brown,GB
+P00175,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00023 shared by 3 players | ip_address=86.74.110.35 shared by 3 players,High,Yusuf Brown,SE
+P00348,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00005 shared by 5 players | ip_address=210.117.60.38 shared by 5 players,High,Emma Lopez,BR
+P00382,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00017 shared by 5 players | ip_address=230.103.221.186 shared by 5 players,High,Chloe Khan,FI
+P00362,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00023 shared by 3 players | ip_address=86.74.110.35 shared by 3 players,High,Omar Silva,NZ
+P00286,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00001 shared by 4 players | ip_address=148.227.151.135 shared by 4 players,High,Maya Novak,GB
+P00215,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00009 shared by 5 players | ip_address=129.47.189.128 shared by 5 players,High,Tara Silva,GB
+P00240,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00003 shared by 5 players | ip_address=187.184.33.49 shared by 5 players,High,Layla Reid,CA
+P00185,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00022 shared by 3 players | ip_address=127.139.68.163 shared by 3 players,High,Yusuf Kim,SE
+P00181,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00018 shared by 5 players | ip_address=206.215.181.186 shared by 5 players,High,Aiden Lopez,BR
+P00344,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00014 shared by 4 players | ip_address=43.221.13.112 shared by 4 players,High,Nina Novak,SE
+P00264,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00009 shared by 5 players | ip_address=129.47.189.128 shared by 5 players,High,Ravi Nair,GB
+P00261,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00002 shared by 4 players | ip_address=61.204.193.81 shared by 4 players,High,Zara Silva,NZ
+P00251,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00004 shared by 4 players | ip_address=153.160.168.100 shared by 4 players,High,Omar Mendis,SE
+P00283,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00005 shared by 5 players | ip_address=210.117.60.38 shared by 5 players,High,Tara Nair,GB
+P00798,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00014 shared by 4 players | ip_address=43.221.13.112 shared by 4 players,High,Zara Khan,CA
+P00796,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00013 shared by 5 players | ip_address=165.186.182.163 shared by 5 players,High,Sofia Khan,GB
+P00786,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00012 shared by 4 players | ip_address=233.234.209.148 shared by 4 players,High,Noah Costa,IN
+P00652,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00012 shared by 4 players | ip_address=233.234.209.148 shared by 4 players,High,Ethan Nair,FI
+P00657,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00002 shared by 4 players | ip_address=61.204.193.81 shared by 4 players,High,Aiden Garcia,BR
+P00698,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00004 shared by 4 players | ip_address=153.160.168.100 shared by 4 players,High,Ivy Taylor,NZ
+P00718,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00010 shared by 4 players | ip_address=55.176.248.140 shared by 4 players,High,Ravi Fernando,BR
+P00760,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00017 shared by 5 players | ip_address=230.103.221.186 shared by 5 players,High,Maya Jones,CA
+P00767,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00010 shared by 4 players | ip_address=55.176.248.140 shared by 4 players,High,Ethan Brown,FI
+P00748,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00001 shared by 4 players | ip_address=148.227.151.135 shared by 4 players,High,Ivy Ali,NZ
+P00582,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00013 shared by 5 players | ip_address=165.186.182.163 shared by 5 players,High,Emma Lopez,FI
+P00581,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00019 shared by 5 players | ip_address=47.182.22.187 shared by 5 players,High,Ivy Nair,CA
+P00600,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00011 shared by 3 players | ip_address=49.84.154.249 shared by 3 players,High,Omar Perera,DE
+P00594,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00022 shared by 3 players | ip_address=127.139.68.163 shared by 3 players,High,Ivy Khan,BR
+P00484,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00012 shared by 4 players | ip_address=233.234.209.148 shared by 4 players,High,Omar Silva,GB
+P00449,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00006 shared by 4 players | ip_address=220.180.121.61 shared by 4 players,High,Dev Khan,BR
+P00473,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00018 shared by 5 players | ip_address=206.215.181.186 shared by 5 players,High,Tara Taylor,GB
+P00436,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00010 shared by 4 players | ip_address=55.176.248.140 shared by 4 players,High,Liam Smith,NZ
+P00391,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00002 shared by 4 players | ip_address=61.204.193.81 shared by 4 players,High,Liam Khan,IN
+P00936,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00008 shared by 3 players | ip_address=58.41.78.178 shared by 3 players,High,Liam Jones,GB
+P00981,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00017 shared by 5 players | ip_address=230.103.221.186 shared by 5 players,High,Ravi Novak,BR
+P00986,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00016 shared by 3 players | ip_address=96.34.64.111 shared by 3 players,High,Tara Reid,BR
+P00812,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00025 shared by 5 players | ip_address=139.131.185.160 shared by 5 players,High,Yusuf Fernando,GB
+P00883,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00020 shared by 5 players | ip_address=167.191.164.99 shared by 5 players,High,Dev Lopez,DE
+P01286,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00022 shared by 3 players | ip_address=127.139.68.163 shared by 3 players,High,Ivy Costa,CA
+P01427,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00003 shared by 5 players | ip_address=187.184.33.49 shared by 5 players,High,Maya Patel,NZ
+P01358,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00007 shared by 3 players | ip_address=34.47.36.137 shared by 3 players,High,Tara Ali,GB
+P01417,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00020 shared by 5 players | ip_address=167.191.164.99 shared by 5 players,High,Hugo Ali,DE
+P01415,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00018 shared by 5 players | ip_address=206.215.181.186 shared by 5 players,High,Ivy Khan,SE
+P01420,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00014 shared by 4 players | ip_address=43.221.13.112 shared by 4 players,High,Nina Taylor,BR
+P01418,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00014 shared by 4 players | ip_address=43.221.13.112 shared by 4 players,High,Lucas Wong,BR
+P01643,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00004 shared by 4 players | ip_address=153.160.168.100 shared by 4 players,High,Lucas Mendis,CA
+P01503,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00024 shared by 3 players | ip_address=155.186.239.78 shared by 3 players,High,Zara Jones,SE
+P01485,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00023 shared by 3 players | ip_address=86.74.110.35 shared by 3 players,High,Yusuf Jones,CA
+P01701,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00006 shared by 4 players | ip_address=220.180.121.61 shared by 4 players,High,Emma Mendis,FI
+P01682,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00008 shared by 3 players | ip_address=58.41.78.178 shared by 3 players,High,Zara Taylor,IN
+P01657,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00021 shared by 3 players | ip_address=99.153.123.92 shared by 3 players,High,Zara Garcia,CA
+P01661,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00021 shared by 3 players | ip_address=99.153.123.92 shared by 3 players,High,Tara Ahmed,IN
+P01891,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00016 shared by 3 players | ip_address=96.34.64.111 shared by 3 players,High,Liam Nair,FI
+P01888,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00003 shared by 5 players | ip_address=187.184.33.49 shared by 5 players,High,Lucas Perera,FI
+P01864,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00003 shared by 5 players | ip_address=187.184.33.49 shared by 5 players,High,Layla Mendis,BR
+P01825,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00019 shared by 5 players | ip_address=47.182.22.187 shared by 5 players,High,Maya Mendis,IN
+P01797,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00007 shared by 3 players | ip_address=34.47.36.137 shared by 3 players,High,Amara Reid,GB
+P01945,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00025 shared by 5 players | ip_address=139.131.185.160 shared by 5 players,High,Emma Khan,IN
+P01632,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00001 shared by 4 players | ip_address=148.227.151.135 shared by 4 players,High,Chloe Costa,BR
+P01610,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00024 shared by 3 players | ip_address=155.186.239.78 shared by 3 players,High,Maya Patel,FI
+P01628,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00005 shared by 5 players | ip_address=210.117.60.38 shared by 5 players,High,Ivy Fernando,NZ
+P01592,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00006 shared by 4 players | ip_address=220.180.121.61 shared by 4 players,High,Ravi Ahmed,BR
+P01582,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00011 shared by 3 players | ip_address=49.84.154.249 shared by 3 players,High,Lucas Silva,NZ
+P01579,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00021 shared by 3 players | ip_address=99.153.123.92 shared by 3 players,High,Maya Kim,CA
+P01570,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00016 shared by 3 players | ip_address=96.34.64.111 shared by 3 players,High,Amara Kim,SE
+P01436,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00019 shared by 5 players | ip_address=47.182.22.187 shared by 5 players,High,Nina Patel,IN
+P01444,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00025 shared by 5 players | ip_address=139.131.185.160 shared by 5 players,High,Nina Perera,DE
+P01462,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00015 shared by 3 players | ip_address=114.249.32.124 shared by 3 players,High,Nina Lopez,DE
+P01476,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00013 shared by 5 players | ip_address=165.186.182.163 shared by 5 players,High,Nina Patel,DE
+P01557,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00009 shared by 5 players | ip_address=129.47.189.128 shared by 5 players,High,Yusuf Garcia,NZ
+P01230,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00019 shared by 5 players | ip_address=47.182.22.187 shared by 5 players,High,Emma Smith,NZ
+P01181,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00015 shared by 3 players | ip_address=114.249.32.124 shared by 3 players,High,Nina Garcia,BR
+P01151,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00024 shared by 3 players | ip_address=155.186.239.78 shared by 3 players,High,Aiden Jones,FI
+P01116,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00003 shared by 5 players | ip_address=187.184.33.49 shared by 5 players,High,Chloe Costa,DE
+P01125,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00020 shared by 5 players | ip_address=167.191.164.99 shared by 5 players,High,Ethan Garcia,NZ
+P01140,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00007 shared by 3 players | ip_address=34.47.36.137 shared by 3 players,High,Omar Costa,NZ
+P01086,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00020 shared by 5 players | ip_address=167.191.164.99 shared by 5 players,High,Maya Novak,GB
+P01377,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00018 shared by 5 players | ip_address=206.215.181.186 shared by 5 players,High,Zara Brown,IN
+P01333,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00013 shared by 5 players | ip_address=165.186.182.163 shared by 5 players,High,Emma Ahmed,BR
+P01335,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00017 shared by 5 players | ip_address=230.103.221.186 shared by 5 players,High,Zara Khan,SE
+P01423,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00004 shared by 4 players | ip_address=153.160.168.100 shared by 4 players,High,Ravi Patel,BR
+P01261,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00018 shared by 5 players | ip_address=206.215.181.186 shared by 5 players,High,Ivy Lopez,SE
+P01270,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00011 shared by 3 players | ip_address=49.84.154.249 shared by 3 players,High,Omar Brown,BR
+P01269,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00001 shared by 4 players | ip_address=148.227.151.135 shared by 4 players,High,Tara Ali,CA
+P01291,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00020 shared by 5 players | ip_address=167.191.164.99 shared by 5 players,High,Sofia Jones,FI
+P01232,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00019 shared by 5 players | ip_address=47.182.22.187 shared by 5 players,High,Zara Garcia,NZ
+P01028,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00015 shared by 3 players | ip_address=114.249.32.124 shared by 3 players,High,Ravi Reid,FI
+P01061,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00013 shared by 5 players | ip_address=165.186.182.163 shared by 5 players,High,Yusuf Silva,FI
+P01046,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00006 shared by 4 players | ip_address=220.180.121.61 shared by 4 players,High,Chloe Khan,BR
+P01073,65,MULTI_ACCOUNT_DEVICE; SHARED_IP,device_id=D00005 shared by 5 players | ip_address=210.117.60.38 shared by 5 players,High,Liam Patel,CA
+P00507,50,SHARED_CARD,card CSH00507 used by 3 players,Medium,Nina Novak,IN
+P00545,50,SHARED_CARD,card CSH00545 used by 3 players,Medium,Layla Brown,SE
+P00564,50,SHARED_CARD,card CSH00564 used by 3 players,Medium,Layla Patel,DE
+P00553,50,SHARED_CARD,card CSH00553 used by 3 players,Medium,Layla Perera,NZ
+P00880,50,SHARED_CARD,card CSH00682 used by 3 players,Medium,Zara Garcia,CA
+P00859,50,SHARED_CARD,card CSH01168 used by 3 players,Medium,Emma Brown,GB
+P00872,50,SHARED_CARD,card CSH00539 used by 3 players,Medium,Sofia Novak,IN
+P01984,50,SHARED_CARD,card CSH01242 used by 3 players,Medium,Liam Smith,CA
+P01843,50,SHARED_CARD,card CSH00553 used by 3 players,Medium,Yusuf Smith,GB
+P01937,50,SHARED_CARD,card CSH01937 used by 3 players,Medium,Nina Mendis,NZ
+P01910,50,SHARED_CARD,card CSH01937 used by 3 players,Medium,Nina Jones,IN
+P01898,50,SHARED_CARD,card CSH01168 used by 3 players,Medium,Aiden Costa,FI
+P01877,50,SHARED_CARD,card CSH01877 used by 3 players,Medium,Liam Costa,CA
+P01827,50,SHARED_CARD,card CSH00545 used by 3 players,Medium,Omar Wong,FI
+P01904,50,SHARED_CARD,card CSH01242 used by 3 players,Medium,Nina Mendis,CA
+P01470,50,SHARED_CARD,card CSH01937 used by 3 players,Medium,Amara Brown,IN
+P01832,50,SHARED_CARD,card CSH01832 used by 3 players,Medium,Ravi Wong,FI
+P01747,50,SHARED_CARD,card CSH01877 used by 3 players,Medium,Maya Nair,NZ
+P01442,50,SHARED_CARD,card CSH00564 used by 3 players,Medium,Ivy Khan,FI
+P01934,50,SHARED_CARD,card CSH01934 used by 3 players,Medium,Aiden Mendis,CA
+P01521,50,SHARED_CARD,card CSH00507 used by 3 players,Medium,Yusuf Patel,CA
+P00083,50,SHARED_CARD,card CSH01832 used by 3 players,Medium,Hugo Fernando,NZ
+P00031,50,SHARED_CARD,card CSH00553 used by 3 players,Medium,Ethan Novak,FI
+P00199,50,SHARED_CARD,card CSH00305 used by 3 players,Medium,Tara Nair,DE
+P00235,50,SHARED_CARD,card CSH01832 used by 3 players,Medium,Ravi Costa,FI
+P00472,50,SHARED_CARD,card CSH00564 used by 3 players,Medium,Nina Patel,NZ
+P00517,50,SHARED_CARD,card CSH00305 used by 3 players,Medium,Sofia Fernando,CA
+P01390,50,SHARED_CARD,card CSH00555 used by 3 players,Medium,Liam Khan,BR
+P01284,50,SHARED_CARD,card CSH01107 used by 3 players,Medium,Omar Costa,BR
+P01168,50,SHARED_CARD,card CSH01168 used by 3 players,Medium,Noah Ali,DE
+P01370,50,SHARED_CARD,card CSH00539 used by 3 players,Medium,Tara Patel,IN
+P01242,50,SHARED_CARD,card CSH01242 used by 3 players,Medium,Sofia Garcia,CA
+P01301,50,SHARED_CARD,card CSH01934 used by 3 players,Medium,Sofia Reid,IN
+P01360,50,SHARED_CARD,card CSH01934 used by 3 players,Medium,Hugo Ali,FI
+P01204,50,SHARED_CARD,card CSH00555 used by 3 players,Medium,Chloe Kim,NZ
+P01149,50,SHARED_CARD,card CSH00545 used by 3 players,Medium,Dev Lopez,FI
+P01107,50,SHARED_CARD,card CSH01107 used by 3 players,Medium,Dev Nair,GB
+P01044,50,SHARED_CARD,card CSH01107 used by 3 players,Medium,Ivy Wong,GB
+P00998,50,SHARED_CARD,card CSH01877 used by 3 players,Medium,Amara Garcia,FI
+P00428,50,SHARED_CARD,card CSH00682 used by 3 players,Medium,Ravi Silva,IN
+P00539,50,SHARED_CARD,card CSH00539 used by 3 players,Medium,Chloe Khan,DE
+P00682,50,SHARED_CARD,card CSH00682 used by 3 players,Medium,Emma Patel,GB
+P00555,50,SHARED_CARD,card CSH00555 used by 3 players,Medium,Aiden Fernando,GB
+P00791,50,SHARED_CARD,card CSH00507 used by 3 players,Medium,Amara Khan,SE
+P00305,50,SHARED_CARD,card CSH00305 used by 3 players,Medium,Aiden Reid,GB
+P00284,45,BONUS_ABUSE,"wagered 2.6x, withdrew after 2.9h",Medium,Amara Ahmed,SE
+P00209,45,BONUS_ABUSE,"wagered 0.5x, withdrew after 4.6h",Medium,Ethan Mendis,SE
+P00303,45,BONUS_ABUSE,"wagered 2.5x, withdrew after 2.4h",Medium,Layla Khan,CA
+P00338,45,BONUS_ABUSE,"wagered 1.2x, withdrew after 5.5h",Medium,Hugo Ali,GB
+P00366,45,BONUS_ABUSE,"wagered 2.6x, withdrew after 0.9h",Medium,Dev Wong,FI
+P00104,45,BONUS_ABUSE,"wagered 2.9x, withdrew after 5.3h",Medium,Yusuf Nair,NZ
+P00147,45,BONUS_ABUSE,"wagered 2.0x, withdrew after 2.7h",Medium,Ethan Ahmed,CA
+P00151,45,BONUS_ABUSE,"wagered 2.7x, withdrew after 5.2h",Medium,Zara Garcia,SE
+P00762,45,BONUS_ABUSE,"wagered 1.7x, withdrew after 0.5h",Medium,Yusuf Patel,FI
+P00772,45,BONUS_ABUSE,"wagered 1.3x, withdrew after 4.9h",Medium,Ravi Garcia,DE
+P00607,45,BONUS_ABUSE,"wagered 1.6x, withdrew after 1.7h",Medium,Nina Kim,CA
+P00599,45,BONUS_ABUSE,"wagered 2.7x, withdrew after 2.5h",Medium,Hugo Wong,BR
+P00597,45,BONUS_ABUSE,"wagered 2.0x, withdrew after 1.0h",Medium,Emma Jones,BR
+P00477,45,BONUS_ABUSE,"wagered 2.2x, withdrew after 3.9h",Medium,Yusuf Kim,BR
+P00426,45,BONUS_ABUSE,"wagered 2.0x, withdrew after 1.7h",Medium,Emma Garcia,FI
+P00437,45,BONUS_ABUSE,"wagered 0.7x, withdrew after 0.7h",Medium,Ravi Fernando,IN
+P00490,45,BONUS_ABUSE,"wagered 1.9x, withdrew after 1.9h",Medium,Noah Khan,DE
+P00505,45,BONUS_ABUSE,"wagered 1.1x, withdrew after 6.8h",Medium,Tara Jones,FI
+P00542,45,BONUS_ABUSE,"wagered 2.6x, withdrew after 4.5h",Medium,Maya Ahmed,IN
+P00596,45,BONUS_ABUSE,"wagered 2.6x, withdrew after 2.0h",Medium,Nina Brown,FI
+P00613,45,BONUS_ABUSE,"wagered 2.8x, withdrew after 5.8h",Medium,Liam Mendis,CA
+P00678,45,BONUS_ABUSE,"wagered 1.5x, withdrew after 0.8h",Medium,Emma Lopez,FI
+P00608,45,BONUS_ABUSE,"wagered 2.3x, withdrew after 6.1h",Medium,Chloe Silva,DE
+P00735,45,BONUS_ABUSE,"wagered 2.1x, withdrew after 1.7h",Medium,Nina Ahmed,BR
+P00891,45,BONUS_ABUSE,"wagered 2.8x, withdrew after 1.3h",Medium,Sofia Taylor,DE
+P00838,45,BONUS_ABUSE,"wagered 0.8x, withdrew after 1.8h",Medium,Omar Kim,FI
+P01997,45,BONUS_ABUSE,"wagered 0.8x, withdrew after 7.8h",Medium,Layla Patel,BR
+P01873,45,BONUS_ABUSE,"wagered 2.8x, withdrew after 0.8h",Medium,Liam Brown,CA
+P01849,45,BONUS_ABUSE,"wagered 2.8x, withdrew after 4.3h",Medium,Liam Mendis,IN
+P01977,45,BONUS_ABUSE,"wagered 2.8x, withdrew after 1.4h",Medium,Yusuf Reid,GB
+P01760,45,BONUS_ABUSE,"wagered 0.9x, withdrew after 4.0h",Medium,Layla Smith,FI
+P01743,45,BONUS_ABUSE,"wagered 1.1x, withdrew after 6.5h",Medium,Amara Kim,IN
+P01658,45,BONUS_ABUSE,"wagered 1.0x, withdrew after 2.2h",Medium,Chloe Fernando,DE
+P01951,45,BONUS_ABUSE,"wagered 1.7x, withdrew after 6.4h",Medium,Lucas Ahmed,FI
+P01469,45,BONUS_ABUSE,"wagered 2.4x, withdrew after 7.9h",Medium,Nina Fernando,IN
+P01493,45,BONUS_ABUSE,"wagered 0.9x, withdrew after 5.9h",Medium,Chloe Ahmed,IN
+P01899,45,BONUS_ABUSE,"wagered 1.5x, withdrew after 6.2h",Medium,Emma Mendis,FI
+P01672,45,BONUS_ABUSE,"wagered 0.9x, withdrew after 3.1h",Medium,Ravi Garcia,IN
+P01534,45,BONUS_ABUSE,"wagered 0.8x, withdrew after 1.1h",Medium,Ivy Ahmed,GB
+P00704,45,BONUS_ABUSE,"wagered 1.5x, withdrew after 1.2h",Medium,Sofia Perera,FI
+P01277,45,BONUS_ABUSE,"wagered 1.1x, withdrew after 4.5h",Medium,Sofia Ahmed,SE
+P01408,45,BONUS_ABUSE,"wagered 1.5x, withdrew after 1.5h",Medium,Ethan Brown,SE
+P01223,45,BONUS_ABUSE,"wagered 1.1x, withdrew after 7.7h",Medium,Tara Patel,IN
+P01164,45,BONUS_ABUSE,"wagered 1.3x, withdrew after 4.8h",Medium,Ravi Patel,SE
+P01089,45,BONUS_ABUSE,"wagered 2.1x, withdrew after 4.7h",Medium,Aiden Mendis,GB
+P01084,45,BONUS_ABUSE,"wagered 2.3x, withdrew after 1.6h",Medium,Liam Reid,IN
+P01064,45,BONUS_ABUSE,"wagered 0.9x, withdrew after 0.8h",Medium,Sofia Taylor,GB
+P01012,45,BONUS_ABUSE,"wagered 0.6x, withdrew after 6.8h",Medium,Ethan Silva,SE
+P00994,45,BONUS_ABUSE,"wagered 2.4x, withdrew after 1.5h",Medium,Sofia Costa,DE
+P01006,45,BONUS_ABUSE,"wagered 0.9x, withdrew after 6.7h",Medium,Noah Ahmed,CA
+P01142,45,BONUS_ABUSE,"wagered 1.6x, withdrew after 0.6h",Medium,Zara Smith,BR
+P01306,45,BONUS_ABUSE,"wagered 1.2x, withdrew after 4.9h",Medium,Aiden Lopez,BR
+P01238,45,BONUS_ABUSE,"wagered 1.0x, withdrew after 1.6h",Medium,Ravi Garcia,BR
+P01385,45,BONUS_ABUSE,"wagered 1.1x, withdrew after 6.6h",Medium,Hugo Nair,SE
+P01310,45,BONUS_ABUSE,"wagered 1.7x, withdrew after 4.5h",Medium,Amara Lopez,SE
+P01324,45,BONUS_ABUSE,"wagered 1.3x, withdrew after 1.8h",Medium,Lucas Silva,BR
+P01330,45,BONUS_ABUSE,"wagered 2.8x, withdrew after 0.7h",Medium,Omar Lopez,CA
+P01266,45,BONUS_ABUSE,"wagered 2.0x, withdrew after 0.5h",Medium,Chloe Ahmed,SE
+P01581,45,BONUS_ABUSE,"wagered 0.5x, withdrew after 0.8h",Medium,Hugo Costa,FI
+P01555,45,BONUS_ABUSE,"wagered 2.2x, withdrew after 6.3h",Medium,Hugo Perera,IN
+P00941,40,PAYMENT_VELOCITY,13 deposits within 1 hour,Medium,Emma Novak,SE
+P00757,40,PAYMENT_VELOCITY,11 deposits within 1 hour,Medium,Ethan Taylor,CA
+P00550,40,PAYMENT_VELOCITY,13 deposits within 1 hour,Medium,Chloe Kim,DE
+P00912,40,PAYMENT_VELOCITY,13 deposits within 1 hour,Medium,Ravi Ali,GB
+P00693,40,PAYMENT_VELOCITY,8 deposits within 1 hour,Medium,Nina Silva,DE
+P00341,40,PAYMENT_VELOCITY,8 deposits within 1 hour,Medium,Yusuf Nair,GB
+P00126,40,PAYMENT_VELOCITY,11 deposits within 1 hour,Medium,Sofia Ali,FI
+P00141,40,PAYMENT_VELOCITY,9 deposits within 1 hour,Medium,Hugo Lopez,BR
+P00076,40,PAYMENT_VELOCITY,11 deposits within 1 hour,Medium,Nina Khan,DE
+P00153,40,PAYMENT_VELOCITY,10 deposits within 1 hour,Medium,Yusuf Wong,IN
+P00253,40,PAYMENT_VELOCITY,12 deposits within 1 hour,Medium,Ivy Silva,FI
+P00533,40,PAYMENT_VELOCITY,11 deposits within 1 hour,Medium,Maya Ahmed,SE
+P00552,40,PAYMENT_VELOCITY,13 deposits within 1 hour,Medium,Omar Khan,DE
+P01217,40,PAYMENT_VELOCITY,13 deposits within 1 hour,Medium,Ravi Wong,NZ
+P01262,40,PAYMENT_VELOCITY,12 deposits within 1 hour,Medium,Nina Wong,DE
+P01256,40,PAYMENT_VELOCITY,13 deposits within 1 hour,Medium,Aiden Wong,NZ
+P01167,40,PAYMENT_VELOCITY,9 deposits within 1 hour,Medium,Ivy Fernando,DE
+P01072,40,PAYMENT_VELOCITY,12 deposits within 1 hour,Medium,Hugo Ali,NZ
+P01071,40,PAYMENT_VELOCITY,12 deposits within 1 hour,Medium,Omar Patel,CA
+P01126,40,PAYMENT_VELOCITY,12 deposits within 1 hour,Medium,Emma Ahmed,NZ
+P01474,40,PAYMENT_VELOCITY,12 deposits within 1 hour,Medium,Noah Lopez,BR
+P01472,40,PAYMENT_VELOCITY,11 deposits within 1 hour,Medium,Dev Kim,GB
+P01646,40,PAYMENT_VELOCITY,10 deposits within 1 hour,Medium,Chloe Novak,NZ
+P01742,40,PAYMENT_VELOCITY,13 deposits within 1 hour,Medium,Maya Patel,SE
+P01748,40,PAYMENT_VELOCITY,10 deposits within 1 hour,Medium,Ethan Wong,BR
+P01758,40,PAYMENT_VELOCITY,13 deposits within 1 hour,Medium,Chloe Jones,DE
+P01853,40,PAYMENT_VELOCITY,8 deposits within 1 hour,Medium,Maya Taylor,DE
+P01897,40,PAYMENT_VELOCITY,10 deposits within 1 hour,Medium,Chloe Nair,GB
+P01915,40,PAYMENT_VELOCITY,13 deposits within 1 hour,Medium,Emma Perera,GB
+P01964,40,PAYMENT_VELOCITY,13 deposits within 1 hour,Medium,Maya Patel,IN

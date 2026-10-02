@@ -1,0 +1,17 @@
+SELECT TOP (1000) [CaseID],
+                  [PlayerID],
+                  [RiskBand],
+                  [RiskScore],
+                  [Rules],
+                  [Evidence],
+                  [Status],
+                  [Disposition],
+                  [AssignedToEmail],
+                  [AssignedToName],
+                  [AnalystNotes],
+                  [Source],
+                  [CreatedOn],
+                  [ClosedOn],
+                  [SLADue],
+                  [TurnaroundHours]
+FROM   [FraudHub].[dbo].[FraudCases];
