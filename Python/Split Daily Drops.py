@@ -2,10 +2,8 @@
 import os
 import pandas as pd
 
-# 1. Define your exact folder path so Python doesn't get lost
 base_path = r"C:\Users\REDTECH\Desktop\fraud_hub\data"
 
-# 2. Update the script to use that base_path
 os.makedirs(f"{base_path}\daily_drops", exist_ok=True)
 pay = pd.read_csv(f"{base_path}\payments.csv")
 
@@ -22,8 +20,7 @@ for i, d in enumerate(days):
     if i % 6 == 5:
         chunk["txn_type"] = chunk["txn_type"].str.upper()
         chunk["status"] = chunk["status"] + "  "
-    
-    # 3. Save the new files into the correct folder
+  
     chunk.to_csv(f"{base_path}\daily_drops\payments_{d}.csv", index=False)
     total_rows += len(chunk)
 
