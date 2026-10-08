@@ -1,4 +1,3 @@
-"""Phase 1b: Rule-based fraud & risk detection. Output: output/daily_exceptions.csv"""
 import os
 import pandas as pd
 
@@ -8,7 +7,6 @@ devices = pd.read_csv("data/devices.csv")
 payments = pd.read_csv("data/payments.csv", parse_dates=["txn_time"])
 bonuses = pd.read_csv("data/bonuses.csv")
 
-# Tunable thresholds (document these in your write-up)
 DEVICE_MIN_PLAYERS = 3     # players on one device
 IP_MIN_PLAYERS = 3         # players on one IP
 CARD_MIN_PLAYERS = 3       # players using one card
@@ -62,7 +60,6 @@ out = agg.merge(players[["player_id", "full_name", "country"]], on="player_id", 
 out = out.sort_values("risk_score", ascending=False)
 out.to_csv("output/daily_exceptions.csv", index=False)
 
-# ---- validation against seeded ground truth ----
 gt = pd.read_csv("data/ground_truth.csv")
 caught = set(out["player_id"])
 seeded = set(gt["player_id"])
